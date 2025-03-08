@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da3d99b5ca666e46b68d3637640d111, type: 3}
+  m_Name: NiceAmulet
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u6212\u6307"
+  itemSprite: {fileID: 1781782351, guid: 9c7355b0cb8a5024bba44738f70d9e74, type: 3}
+  ItemNumber: 0
+  dropChance: 0
+  equipmentType: 2
+  itemEffects: []
+  cooldown: 0
+  strength: 10
+  agility: 0
+  damage: 20
+  intelligence: 0
+  maxHp: 20
+  armor: 0
+  evation: 10
+  critChance: 0
+  critPower: 0
+  magicPower: 10
+  craftMaterials: []
